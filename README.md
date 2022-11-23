@@ -14,7 +14,7 @@ I wrote a function that takes two numbers and does 4 types of calculations: addi
 The parameters should be numbers and operation characters should be exact match, otherwise, returns false.
 
 ### Links
-- Solution URL: (https://github.com/natia-purtskhvanidze/product-preview-card-component-main)
+- Solution URL: (https://github.com/natia-purtskhvanidze/javascript-task-1)
 
 
 ### Author
